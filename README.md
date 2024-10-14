@@ -16,10 +16,10 @@ https://janitorai.com/
 
 # 📷 footage
 video/gen.py!
-[https://github.com/user-attachments/assets/c7348e91-0515-4093-adef-37506d1d487d](https://github.com/user-attachments/assets/c7348e91-0515-4093-adef-37506d1d487d)
+[https://github.com/user-attachments/assets/c7348e91-0515-4093-adef-37506d1d487d]
 
 tutorial follower.py:
-[https://github.com/user-attachments/assets/e07bd89d-228e-465d-88c3-563d5d3c141b](https://github.com/user-attachments/assets/e07bd89d-228e-465d-88c3-563d5d3c141b)
+[https://github.com/user-attachments/assets/e07bd89d-228e-465d-88c3-563d5d3c141b]
 
 
 # ⭐star-targets
