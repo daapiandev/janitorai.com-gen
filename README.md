@@ -10,7 +10,7 @@ https://janitorai.com/
 
 -http proxies🔥
 
--follower!- Fully request based follower see tutorial video/2🔥
+-follower!- Fully request based follower scroll down for tutorial!🔥
 
 -fully unblocked accounts🔥
 
