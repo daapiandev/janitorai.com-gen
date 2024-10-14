@@ -1,6 +1,7 @@
 # ✅janitorai.com-gen
 made in my freetime enjoy each token lasts for 30/45 mins star for a refresher
-https://janitorai.com/
+
+https://janitorai.com/ gen
 
 
 # 🔥features
@@ -29,6 +30,7 @@ video/gen.py!:
 
 ⭐10 stars= humanizer/token refresher
 
+
 # 🤓follower tutorial
 so lets just say ur profile link is: https://janitorai.com/profiles/9c959bbc-3607-4f59-b49a-3b379c7e18a6_profile-of-nnnmn-bjhgjh
 
@@ -38,3 +40,8 @@ so lets just say ur profile link is: https://janitorai.com/profiles/9c959bbc-360
    
 3. Fill in how much threads how much follows etc etc (the follower count can not be more then ur tokens cause they follow using the tokens in token.txt)
 
+
+
+
+# 🤙🏻contact
+daap._ contact me for help/bugs
