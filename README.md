@@ -15,14 +15,23 @@ https://janitorai.com/
 -fully unblocked accounts🔥
 
 # 📷 footage
-video/gen.py!
-[https://github.com/user-attachments/assets/c7348e91-0515-4093-adef-37506d1d487d](https://github.com/user-attachments/assets/c7348e91-0515-4093-adef-37506d1d487d)
+video/gen.py!:
+https://github.com/user-attachments/assets/b3b2b771-44bb-4ac4-a5ac-aa6f0baa34bd
 
-tutorial follower.py:
-https://github.com/user-attachments/assets/e07bd89d-228e-465d-88c3-563d5d3c141b
+
+
+
 
 
 # ⭐star-targets
 ⭐5 stars= AIO (i have it ready)
 
 ⭐10 stars= humanizer/token refresher
+
+# follower tutorial
+so lets just say ur profile link is: https://janitorai.com/profiles/9c959bbc-3607-4f59-b49a-3b379c7e18a6_profile-of-nnnmn-bjhgjh
+
+1. Go too the profile u wanna bot follow.
+2. Copy the id in this case: (9c959bbc-3607-4f59-b49a-3b379c7e18a6)
+3. Fill in how much threads how much follows etc etc (the follower count can not be more then ur tokens cause they follow using the tokens in token.txt)
+
