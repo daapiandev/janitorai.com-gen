@@ -1,3 +1,8 @@
+
+# patched for now !
+
+
+
 # ✅janitorai.com-gen
 made in my freetime enjoy each token lasts for 30/45 mins star for a refresher
 
